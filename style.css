@@ -1,0 +1,43 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+form {
+  background-color: #3b3b3b;
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #1b1b1b;
+  background-color: #4e4e4e;
+  color: white;
+}
+
+.input::placeholder {
+  color: white;
+}
+
+.button {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 15px;
+  background: linear-gradient(to right, #ed3580, #424392);
+  color: white;
+  font-weight: 700px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: linear-gradient(to right, #992252, #2f3068);
+}
