@@ -27,7 +27,7 @@ assim aprendendo mais sobre a criação de uma extensão para o chrome. Assim al
 - "permissions" no json como "activeTab" para utilizar a tab atual do navegador e "scripting" para utilizar javascript na tab atual do navegador
 
 
-Para Entrar em Contato Comigo me Pesquise no Linkdin ou Github
+Para Entrar em Contato Comigo me Pesquise no Linkedin ou Github
 
 **Daniel Arruda**
 
